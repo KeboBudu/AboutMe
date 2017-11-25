@@ -310,6 +310,7 @@ label {
 }
 
 .ticketBox .projects-image {
+	width: 350px;
 	border-top: 1px solid rgba(0, 0, 0, 0.1);
     margin-top: 15px;
     padding-top: 15px;
@@ -529,6 +530,13 @@ iframe {
     width: 100%;
     z-index: 99;
 }
+.ticketBox .projects-image {
+	width: 200px;
+	border-top: 1px solid rgba(0, 0, 0, 0.1);
+    margin-top: 5px;
+    padding-top: 5px;
+	text-align: center;
+}
 
 }
 
@@ -559,6 +567,14 @@ iframe {
     padding-left: 0;
     margin-right: 0;
     display: block;
+}
+
+.ticketBox .projects-image {
+	width: 100px;
+	border-top: 1px solid rgba(0, 0, 0, 0.1);
+    margin-top: 5px;
+    padding-top: 5px;
+	text-align: center;
 }
 
 }
